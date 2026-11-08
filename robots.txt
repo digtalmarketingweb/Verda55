@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://565755.shop/sitemap.xml
